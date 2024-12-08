@@ -23,4 +23,4 @@ Este é um projeto de um teclado virtual desenvolvido com **HTML**, **CSS** e **
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/teclado-virtual.git
+   git clone https://github.com/ThiegoGagliardi/DIO.MusicalKeyboard.git
