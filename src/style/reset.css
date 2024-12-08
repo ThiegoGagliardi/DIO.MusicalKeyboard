@@ -1,0 +1,11 @@
+* {
+  
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+  user-select: none;
+  list-style: none;
+  outline: none;
+}
